@@ -1,1 +1,1 @@
-Just a little notebook based on the Keras MNIST example for a tutorial I'm giving. If you're looking at this on Github you can view a [static version of the notebook](MNIST in Keras.ipynb) in your browser.
+Projeto de implementação de um sistema de reconhecimento de numeros de escrita manual feito em python com o framework keras
